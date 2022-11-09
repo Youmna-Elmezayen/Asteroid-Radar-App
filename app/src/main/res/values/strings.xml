@@ -20,4 +20,10 @@
     <string name="isPotentiallyHazardous">isPotentiallyHazardous</string>
     <string name="this_is_nasa_s_picture_of_day_showing_nothing_yet">This is NASA\'s picture of day, showing nothing yet</string>
     <string name="nasa_picture_of_day_content_description_format">NASA\'s picture of day: %s</string>
+    <string name="double_click_for_help">Double click for help</string>
+    <string name="asteroid_code_name">Asteroid code name</string>
+    <string name="asteroid_close_approach_date">Asteroid close approach date</string>
+    <string name="this_is_potentially_hazardous">This is potentially hazardous</string>
+    <string name="this_is_not_hazardous">This is not hazardous</string>
+    <string name="this_is_s_double_click_top_open">This is %s, double click top open</string>
 </resources>
